@@ -1,4 +1,4 @@
-# Полезные ссылки по разработке
+# Полезные материалы по разработке
 
 # YouTube
 1. [Лекции от mail.ru](https://www.youtube.com/playlist?list=PLrCZzMib1e9rZohs_FJg8MK52Ey494z40)
